@@ -53,3 +53,4 @@ PatentLens automates technology domain classification of patent abstracts using 
 ---
 
 ## Tech Stack
+_ for the tech stack we will be using foru ai maodels which are currently being taken form the hugging face 
