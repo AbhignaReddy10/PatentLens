@@ -1,0 +1,18 @@
+PatentLens — ZEROSHOT Results
+=======================================================
+Accuracy    : 0.6008
+Macro-F1    : 0.5975
+Weighted-F1 : 0.5977
+
+               precision    recall  f1-score   support
+
+ CLEAN_ENERGY       1.00      0.29      0.45        45
+     AGRITECH       0.95      0.42      0.58        43
+      MEDTECH       0.93      0.89      0.91        45
+MANUFACTURING       0.83      0.34      0.48        44
+DIGITAL_INFRA       0.35      0.91      0.50        44
+   ENVIROTECH       0.58      0.76      0.66        42
+
+     accuracy                           0.60       263
+    macro avg       0.77      0.60      0.60       263
+ weighted avg       0.78      0.60      0.60       263

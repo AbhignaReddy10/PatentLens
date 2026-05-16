@@ -1,0 +1,18 @@
+PatentLens — FEWSHOT Results
+=======================================================
+Accuracy    : 0.6832
+Macro-F1    : 0.6907
+Weighted-F1 : 0.6915
+
+               precision    recall  f1-score   support
+
+ CLEAN_ENERGY       0.95      0.48      0.64        44
+     AGRITECH       0.86      0.68      0.76        44
+      MEDTECH       0.94      0.73      0.82        44
+MANUFACTURING       0.71      0.55      0.62        44
+DIGITAL_INFRA       0.44      0.90      0.59        42
+   ENVIROTECH       0.68      0.77      0.72        44
+
+     accuracy                           0.68       262
+    macro avg       0.76      0.68      0.69       262
+ weighted avg       0.77      0.68      0.69       262
