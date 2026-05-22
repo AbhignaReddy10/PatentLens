@@ -2,3 +2,6 @@
 venv/
 __pycache__/
 *.pyc
+notebooks/*_files/
+*.html
+*.js.download

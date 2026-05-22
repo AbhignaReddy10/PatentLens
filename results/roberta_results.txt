@@ -1,0 +1,18 @@
+PatentLens — RoBERTa Fine-tuned Results
+==================================================
+Accuracy    : 0.9111
+Macro-F1    : 0.9104
+
+               precision    recall  f1-score   support
+
+ CLEAN_ENERGY       0.90      0.98      0.94        45
+     AGRITECH       0.91      0.96      0.93        45
+      MEDTECH       0.96      0.96      0.96        45
+MANUFACTURING       0.88      0.82      0.85        45
+DIGITAL_INFRA       0.91      0.87      0.89        45
+   ENVIROTECH       0.91      0.89      0.90        45
+
+     accuracy                           0.91       270
+    macro avg       0.91      0.91      0.91       270
+ weighted avg       0.91      0.91      0.91       270
+

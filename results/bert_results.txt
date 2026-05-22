@@ -1,0 +1,18 @@
+PatentLens — BERT Fine-tuned Results
+==================================================
+Accuracy    : 0.8778
+Macro-F1    : 0.8764
+
+               precision    recall  f1-score   support
+
+ CLEAN_ENERGY       0.85      0.89      0.87        45
+     AGRITECH       0.88      0.93      0.90        45
+      MEDTECH       0.91      0.96      0.93        45
+MANUFACTURING       0.89      0.73      0.80        45
+DIGITAL_INFRA       0.87      0.87      0.87        45
+   ENVIROTECH       0.87      0.89      0.88        45
+
+     accuracy                           0.88       270
+    macro avg       0.88      0.88      0.88       270
+ weighted avg       0.88      0.88      0.88       270
+
